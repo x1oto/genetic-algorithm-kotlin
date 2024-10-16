@@ -79,5 +79,5 @@ To run the program, follow these steps:
      - `targetWeight`: The desired total weight (default is 5950).
      - `maxWeightLimit`: The maximum allowed weight (default is 6000).
 
-  - **Target String Matching**:
-   - `target`: The string you want the algorithm to evolve towards (default is "FIND ME")
+   - **For the Target String Matching**:
+     - `target`: The string you want the algorithm to evolve towards (default is "FIND ME"). 
